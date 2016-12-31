@@ -1,0 +1,134 @@
+.row-header{
+    margin: 0px auto;
+    padding: 0px auto;
+}
+.row-content{
+    margin: 0px auto;
+    padding: 0px 0px 50px 0px ;
+/*    min-height: 400px;*/
+    
+    
+}
+.row-footer{
+    background-color: silver;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px ;
+}
+.jumbotron{
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background: #7986cb;
+    color: floralwhite;
+}
+adress
+{
+    font-size: 80%;
+    margin: 0px;
+    color: white;
+}
+
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-inverse {
+     background: #303F9F;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+    color: #fff;
+    background: #1A237E;
+}
+
+.navbar-inverse .navbar-nav > .open > a,
+ .navbar-inverse .navbar-nav > .open > a:hover,
+ .navbar-inverse .navbar-nav > .open > a:focus {
+    color: #fff;
+    background: #1A237E;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu> li> a,
+.navbar-inverse .navbar-nav .open .dropdown-menu {
+    background-color: #303F9F;
+    color:#eeeeee;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu> li> a:hover {
+    color:#000000;
+}
+
+.navbar-form{
+    padding: 0px 0px 0px 0px;
+}
+
+
+.well{
+    margin-bottom: 100px;
+   
+}
+.check{
+    color: silver;
+}
+.btn-warning{
+    margin-top: 100px;
+}
+#row1{
+    margin-top: 10px;
+    margin-left: 100px;
+}
+#heading p
+{
+    margin-top: 40px;
+    margin-left: 30px;
+    font-size:   120%;
+}
+.choice{
+    width: 100px; 
+    float: left;
+    clear: left;
+    text-align: right;
+    margin-right: 10px;
+}
+
+#reserve{
+    margin-left: 111px;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+.affix {
+    top:100px;
+}
+/*
+label {
+    float: left;
+    clear: left;
+    text-align: right;
+    margin-right: 20px;
+}
+*/
+.carousel {
+    background:#1A237E;
+}
+.carousel .item {
+  height: 300px;
+}
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+#carouselButtons {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+}
+
